@@ -1,3 +1,6 @@
+# Project Title:
+      Financial-Aid Support System
+
 # Problem Statement:  
 Students often struggle to understand financial aid requirements and eligibility criteria. Manual verification is time‑consuming and prone to errors. This project solves that by providing a fast, accurate, and user‑friendly interface that validates inputs and displays eligibility results in real time.
 # Inspiration:  
